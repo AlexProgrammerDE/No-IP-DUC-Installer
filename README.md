@@ -1,5 +1,5 @@
 # No-IP-DUC-Installer
-This is a simple installer forr the No IP DUC for Linux.
+This is a simple installer for the No IP DUC for Linux.
 
 You can run the installer as follow:
 
